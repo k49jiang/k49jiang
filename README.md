@@ -1,5 +1,8 @@
-### Hi there 👋
-My name is Sunny and I am an undergraduate student at the University of Waterlo majored in Chemical Engineering o.
+### Hi Github! Sunny here 👋
+I am a first year undergraduate student at the University of Waterloo. 
+
+### Check out my articles
+
 <!--
 **k49jiang/k49jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
